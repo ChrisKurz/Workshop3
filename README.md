@@ -7,3 +7,6 @@
 4) [Using Zephyr Shell](https://github.com/ChrisKurz/nRF_Connect_SDK/blob/main/doc/NCSv2.6.0_10_ZephyrShell.md)
 5) [DeviceTree: using ADC](https://github.com/ChrisKurz/nRF_Connect_SDK/blob/main/doc/NCSv2.6.0_ZHW_ADC_1.md)
 6) [Running ADC Code in a Thread](https://github.com/ChrisKurz/nRF_Connect_SDK/blob/main/doc/NCSv2.5.2_ZHW_ADC_1_Thread.md)
+
+## Bluetooth LE
+7) [Bluetooth Connect - Device Information Service](https://github.com/ChrisKurz/Bluetooth/blob/main/doc/NCSv2.6.0_02_peripheral_Service_DeviceInformation.md)
