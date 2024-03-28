@@ -10,3 +10,5 @@
 
 ## Bluetooth LE
 7) [Bluetooth Connect - Device Information Service](https://github.com/ChrisKurz/Bluetooth/blob/main/doc/NCSv2.6.0_02_peripheral_Service_DeviceInformation.md)
+8) [Adding a custom Service/Characteristic](https://github.com/ChrisKurz/Bluetooth/blob/main/doc/NCSv2.6.0_03_peripheral_CustomService.md)
+9) [Adding Security](https://github.com/ChrisKurz/Bluetooth/blob/main/doc/NCSv2.6.0_10_peripheral_EnableSecurity.md)
